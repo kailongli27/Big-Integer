@@ -1,6 +1,6 @@
 # Big-Integer
 
-An implementation of a Big Integer class, whcih includes several implementations of grade school arithmetic, base conversion, and prime factorization algorithms on big integers. The three main methods are:
+An implementation of a Big Integer class, which includes several implementations of grade school arithmetic, base conversion, and prime factorization algorithms on big integers. The three main methods are:
 
 dividedBy
 
